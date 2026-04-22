@@ -13,7 +13,7 @@ Collect logs from Amazon EC2 instances into Amazon CloudWatch and automate log c
 - AWS Systems Manager executes commands
 - IAM roles control access
 
-<img width="982" height="701" alt="Automation_Log_Collection" src="https://github.com/user-attachments/assets/f45b43ae-6e23-41e6-9d86-26ffec4347f7" />
+<img width="650" height="600" alt="Automation_Log_Collection" src="https://github.com/user-attachments/assets/f45b43ae-6e23-41e6-9d86-26ffec4347f7" />
 
 
 ---
